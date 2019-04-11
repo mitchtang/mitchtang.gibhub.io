@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-#remote_theme: ankitsultana/researcher@gem
+remote_theme: ankitsultana/researcher@gem
 locale                   : "en-US"
 title                    : "Meng-Chi Tang"
 title_separator          : "-"
