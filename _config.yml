@@ -82,14 +82,14 @@ analytics:
 # Site Author
 author:
   name             : "Meng-Chi Tang"
-  avatar           : "profile.png"
+  avatar           : "EmbeddedImage.jpg"
   bio              : "Professor of Economics"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=pAMSkvMAAAAJ&hl=en"
   email            : "ecdmct@ccu.edu.tw"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Meng_Chi_Tang"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "mitchtang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7175-7241?lang=en"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
