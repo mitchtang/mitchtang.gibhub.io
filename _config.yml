@@ -86,7 +86,7 @@ author:
   bio              : "Professor of Economics"
   location         : "Taiwan"
   employer         : "Department of Economics"
-  employer         :  National Chung Cheng University 'www.ccu.edu.tw'
+  employer         :  "https://www.ccu.edu.tw/"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=pAMSkvMAAAAJ&hl=en"
   email            : "ecdmct@ccu.edu.tw"
