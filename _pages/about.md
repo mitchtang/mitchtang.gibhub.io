@@ -13,4 +13,4 @@ redirect_from:
 * My research interests are empirical industrial organization and contract theory.
 * I also have some works in applied micro, including health, family, and trade.
 * My current research focus on the medical providers' behavior under National Health Insurance in Taiwan.
-* Current research topics include the pharmaceutical demand with agency problem, and the providers' supply behavior under global budgeting in Taiwan. 
+* Current research topics include the pharmaceutical demand with agency problem, and the providers' supply behavior under global budgeting. 
