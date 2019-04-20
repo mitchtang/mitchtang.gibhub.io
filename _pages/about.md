@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a professor at Department of Economics, [link](http://www.ccu.edu.tw "National Chung Cheng University")in Taiwan.
+* I am a professor at Department of Economics, ["National Chung Cheng University"](http://www.ccu.edu.tw)in Taiwan.
 * I received my Ph.D. from Department of Economics, **Michigan State University** in 2009.
 * My research interests are **empirical industrial organization** and **contract theory**.
 * I also have some works in **applied micro**, including **health**, **family**, and **trade**.
