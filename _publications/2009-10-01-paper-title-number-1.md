@@ -10,6 +10,6 @@ paperurl: 'https://drive.google.com/file/d/0Bz425neBSWI_R1A1cnprNF9jMVU/view'
 ---
 #This paper is about the number 1. The number 2 is left for future work.
 
-#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+#[Download paper here](https://drive.google.com/file/d/0Bz425neBSWI_R1A1cnprNF9jMVU/view)
 
 #Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
