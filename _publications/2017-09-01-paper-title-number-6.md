@@ -7,4 +7,5 @@ date: 2017-09-01
 venue: 'The Manchester School'
 paperurl: ' https://doi.org/10.1007/s00181-016-1126-0'
 citation: 'Shiu, J.-L., & Tang, M.-C. (2016). A capable wife: couple’s joint decisions on labor supply and family chores. Empirical Economics, 53(2), 827-851.
+---
 [Download paper here](https://drive.google.com/open?id=0Bz425neBSWI_X0JONjJZMjl4RVE)
