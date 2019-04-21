@@ -1,7 +1,8 @@
 ---
 title: "Legal Environments, Venture Capital, and the Total Factor Productivity Growth of Taiwanese Industry"
 collection: publications
-permalink: /publication/2008-07-01-paper-title-number-1
+permalink: https://drive.google.com/file/d/0Bz425neBSWI_R1A1cnprNF9jMVU/view
+#/publication/2008-07-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2008-07-01
 venue: 'Contemporary Economic Policy'
