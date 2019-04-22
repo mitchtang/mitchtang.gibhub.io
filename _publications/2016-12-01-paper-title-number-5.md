@@ -2,7 +2,7 @@
 title: "Household Preferences and Joint Decisions on Employer-Provided Health Insurance Access"
 collection: publications
 permalink: /publication/2016-12-01-paper-title-number-5
-excerpt: ''
+excerpt: 'with **Ji-Liang Shiu**'
 date: 2016-12-01
 venue: 'The Manchester School'
 paperurl: ' https://doi.org/10.1111/manc.12129'
