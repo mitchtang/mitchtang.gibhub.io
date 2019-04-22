@@ -2,7 +2,7 @@
 title: "A Capable Wife: Couple's Joint Decisions on Labor Supply and Family Chores"
 collection: publications
 permalink: /publication/2017-09-01-paper-title-number-6
-excerpt: ''
+excerpt: 'with **Ji-Liang Shiu**'
 date: 2017-09-01
 venue: 'Empirical Economics'
 paperurl: 'https://doi.org/10.1007/s00181-016-1126-0'
