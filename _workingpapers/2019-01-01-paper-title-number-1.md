@@ -5,12 +5,8 @@ permalink: /publication/2019-01-01-paper-title-number-12
 excerpt: 'with **Ji-Liang Shiu** and **Yu-Hui Chou'
 date: 2019-01-01
 venue: 'under submission'
-#paperurl: 'https://doi.org/10.1111/j.1465-7287.2008.00105.x'
+#paperurl: 'https://www.dropbox.com/s/au67s6aeh9kw0vl/190315.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
 ---
 [Download paper here](https://www.dropbox.com/s/50pokjstyt8g29h/CEP.pdf?dl=0)<br/>
-The markup from prescription drugs may affect physicians’ generic pharmaceutical adoption choices, but this information is rarely available. In this paper, we retrieved the average markup of each drug from the reimbursement pricing history in Taiwan. While we did not
-observe individual markups, we accounted for the retrieved markup as measured with error
-in the estimation. We found that a three-cent increase of the markup differential between
-
-generic and branded drugs would increase the likelihood of physicians’ generic pharmaceutical adoptions by about 10%. We inferred that private clinics are likely to have the largest markup differential among all the providers.
+Physicians’ markup from prescription drugs may affect their’ generic pharmaceutical adop- tion, but this information is rarely available. We retrieved the average markup of each drug in Taiwan, which records detailed pricing and prescription data under universal healthcare system. While we did not observe the markup by provider, we proposed an empirical model that allows the markup to be measured with error. We found that physicians’ generic phar- maceutical adoption increases with markup differentials between generic and branded drugs, especially the employed physicians in hospitals and the physicians worked in private facili- ties. We also inferred the true distribution of providers’ markup differentials based on the mismeasured ones. We found that private hospitals are likely to receive the largest markup in Taiwan, followed by public hospitals and the owners of private clinics.
