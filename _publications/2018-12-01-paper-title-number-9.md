@@ -2,7 +2,7 @@
 title: "DDT Exposure in Early Childhood and Female Breast Cancer: Evidence from a Large-scale Natural Experiment in Taiwan"
 collection: publications
 permalink: /publication/2018-12-01-paper-title-number-9
-excerpt: 'with ** Simon Chang**, **Sonia EL-Zaemey**, **Jane Heyworth**'
+excerpt: 'with **Simon Chang**, **Sonia EL-Zaemey**, **Jane Heyworth**'
 date: 2018-12-01
 venue: 'Environment International'
 paperurl: 'https://doi.org/10.1016/j.envint.2018.10.023'
