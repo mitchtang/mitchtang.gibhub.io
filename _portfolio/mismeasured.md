@@ -3,7 +3,7 @@ title: "Generic Pharmaceutical Adoption with Mismeasured Physician Agency"
 collection: portfolio
 permalink: /portfolio/mismeasured
 excerpt: 'with **Ji-Liang Shiu** and **Yu-Hui Chou**'
-date:
+date: 2019-05-01
 venue: 'under submission'
 #paperurl: 'https://www.dropbox.com/s/au67s6aeh9kw0vl/190315.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
