@@ -232,14 +232,14 @@ defaults:
       share: true
       comments: true
   # _workingpapers
-      - scope:
-          path: ""
-          type: workingpapers
-        values:
-          layout: single
-          author_profile: true
-          share: true
-          comments: true
+  #    - scope:
+#          path: ""
+  #        type: workingpapers
+  #      values:
+  #        layout: single
+  #        author_profile: true
+  #        share: true
+  #        comments: true
 
   # _portfolio
   - scope:
