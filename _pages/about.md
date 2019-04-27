@@ -15,3 +15,5 @@ redirect_from:
 * My current research focus on the medical providers' behavior under National Health Insurance in Taiwan. Current research topics include:
   * pharmaceutical demand with agency problem
   * providers' supply behavior under global budgeting
+
+This site was lasted updated at May 1, 2019
