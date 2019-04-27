@@ -16,4 +16,4 @@ redirect_from:
   * pharmaceutical demand with agency problem
   * providers' supply behavior under global budgeting
 
-<align=right> <em>This site was lasted updated at May 1, 2019</em>
+<align=right> <em>This site was lasted updated at May 1, 2019</em></align>
