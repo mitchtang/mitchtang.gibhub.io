@@ -9,11 +9,11 @@ main:
 #  - title: "Working Papers"
 #    url: /workingpapers/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Working Papers"
     url: /portfolio/
+
+- title: "Teaching"
+        url: /teaching/
 
   #- title: "Blog Posts"
     #url: /year-archive/
