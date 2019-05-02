@@ -84,8 +84,8 @@ author:
   name             : "Meng-Chi Tang"
   avatar           : "EmbeddedImage.jpg"
   bio              : "Professor"
-  location         : "Department of Economics"
-  employer         : "National Chung Cheng University"
+  location         : #"Department of Economics"
+  employer         : #"National Chung Cheng University"
   #employer         :  "https://www.ccu.edu.tw/"
   pubmed           :
   googlescholar    : "https://scholar.google.com.tw/citations?user=pAMSkvMAAAAJ&hl=en"
