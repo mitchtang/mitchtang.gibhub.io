@@ -8,7 +8,7 @@
 # Site Settings
 remote_theme             : ankitsultana/researcher@gem
 locale                   : "en-US"
-title                    : "Meng-Chi Tang  唐孟祺"
+title                    : "Meng-Chi Tang"
 title_separator          : "-"
 name                     : &name "Meng-Chi Tang"
 description              : &description #"I am a professor at Department of Economics, National Chung Cheng University in Taiwan. I received my Ph.D. from Department of Economics, Michigan State University in 2009. "
