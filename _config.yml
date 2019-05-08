@@ -82,9 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Meng-Chi Tang"
-  name             : "唐孟祺"
   avatar           : "EmbeddedImage.jpg"
-  bio              : "Professor"
+  bio              : "唐孟祺"
   location         : #"Department of Economics"
   #employer         :  "https://www.ccu.edu.tw/"
   pubmed           :
