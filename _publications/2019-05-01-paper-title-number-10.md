@@ -9,4 +9,4 @@ venue: 'Argumenta Oeconomica'
 #citation: 'Chang, S., El-Zaemey, S., Heyworth, J., & Tang, M. chi. (2018). DDT exposure in early childhood and female breast cancer: Evidence from an ecological study in Taiwan. Environment International, 121(October), 1106–1112. '
 ---
 
-[Download paper here]()<br/>
+[Download paper here](https://dbc.wroc.pl/Content/68009/Yang_Tang_The_Musgravian_transformation.pdf)<br/>
