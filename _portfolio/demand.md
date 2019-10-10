@@ -3,7 +3,7 @@ title: "A Structural Analysis of Physician Agency and Pharmaceutical Demand"
 collection: portfolio
 permalink: /portfolio/demand
 excerpt: ''
-date: 2019-05-01
+date: 2019-10-01
 venue: 'under submission'
 #paperurl: 'https://www.dropbox.com/s/exvfodbrlmzmjys/190929.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
