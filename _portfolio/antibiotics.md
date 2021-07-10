@@ -3,7 +3,7 @@ title: "Physician Agency and Inappropriate Antibiotic Prescriptions in Taiwan"
 collection: portfolio
 permalink: /portfolio/antibiotics
 excerpt: ''
-date: 2021-10
+date: 2021-07
 venue: 'under submission'
 #paperurl: 'https://www.dropbox.com/s/ey2jew1gokkviae/210708.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
