@@ -1,7 +1,7 @@
 ---
 title: "Manageable Hospital Service Volume under Global Budgeting: Evidence from a Policy Reform in Taiwan"
 collection: portfolio
-permalink: /portfolio/supply
+permalink: /portfolio/hei
 excerpt: ''
 date: 2020-11-10
 venue: 'under submission'
