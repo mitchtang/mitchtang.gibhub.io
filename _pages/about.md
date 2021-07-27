@@ -15,7 +15,6 @@ redirect_from:
 * My current research focus on the medical providers' behavior under National Health Insurance in Taiwan. Current research topics include:
   * The effect of physican agency on physicians' prescription choices and prescription quality. 
   * Medical providers' behavior under the global budgeting system in Taiwan
-  * The effect of competition among medical providers on their prescription behavior.
-* My research on family economics focus on the bargaining power balance between husband and wife and how it affects household decision making such as labor supply, household chores shares and coresidence with husband's parents.
 
-<div style="text-align:right"> <em>This site was lasted updated at July 27, 2021</em>
+
+<div style="text-align:right"> <em>This site was lasted updated at July 12, 2021</em>
