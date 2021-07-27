@@ -12,7 +12,7 @@ redirect_from:
 * I received my Ph.D. from Department of Economics, [Michigan State University](http://econ.msu.edu) in 2009.
 * My research interests are **empirical industrial organization** and **contract theory**. 
 * I also have some works in **applied micro** including **health** and **family**.
-* My current research focus on the medical providers' behavior under National Health Insurance in Taiwan. Current research topics include:
+* My current research focus on medical providers' behavior under National Health Insurance in Taiwan. Current research topics include:
   * The effect of physican agency on physicians' prescription choices and prescription quality. 
   * Medical providers' behavior under the global budgeting system in Taiwan
 
