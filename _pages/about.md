@@ -15,7 +15,7 @@ redirect_from:
 * My current research focus on medical providers' behavior under National Health Insurance in Taiwan. Current research topics include:
   * The effect of physican agency on physicians' prescription choices and prescription quality. For the quality measures I have been studying the antibiotic prescriptions, drug-drug interactions and patients' medical adherence. 
   * Medical providers' behavior under the global budgeting system in Taiwan, including their supply and location choices.
-  * Cesarian section and its long-term impact on children's health outcomes.
+  * Cesarean section and its long-term impact on children's health outcomes.
 * I am also working on the issues related to family and gender economics including
   * Intergenerational coresidence decisions 
   * The effects of gendered laws on women's life decisions
