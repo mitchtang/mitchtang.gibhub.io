@@ -13,8 +13,11 @@ redirect_from:
 * My research interests are **empirical industrial organization** and **contract theory**. 
 * I also have some works in **applied micro** including **health** and **family**.
 * My current research focus on medical providers' behavior under National Health Insurance in Taiwan. Current research topics include:
-  * The effect of physican agency on physicians' prescription choices and prescription quality. 
+  * The effect of physican agency on physicians' prescription choices and prescription quality 
   * Medical providers' behavior under the global budgeting system in Taiwan
+  * Cesarian Section and its Long-term Impact on Children's Health Outcomes
+* I am also working on issues related to family economics including
+  * Intergenerational coresidence decisions 
+  * The effects of gendered laws on women's life decisions
 
-
-<div style="text-align:right"> <em>This site was lasted updated at July 12, 2021</em>
+<div style="text-align:right"> <em>This site was lasted updated at June 1, 2022</em>
