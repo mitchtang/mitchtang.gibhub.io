@@ -3,10 +3,10 @@ title: "The Effect of Endogenous Campaign Spending and Voter Heterogeneity on Ca
 collection: portfolio
 permalink: /portfolio/BLPvoting
 excerpt: 'with **Ya-Wei Huang**'
-date: 2020-11-05
+date: 2022-06-08
 venue: 'under submission'
-#paperurl: 'https://www.dropbox.com/s/5uho62cq0c3j4i7/201103.pdf?dl=0'
+#paperurl: 'https://doi.org/10.1016/j.econmod.2022.105919'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
 ---
-[Download paper here](https://www.dropbox.com/s/5uho62cq0c3j4i7/201103.pdf?dl=0)<br/>
-This paper addresses the effect of campaign spending on vote share by allowing campaign spending to be endogenous and including voter heterogeneity in the estimation. Using the BLP estimation (Berry et al., Econometrica, 1995) and the election data from Taiwan, empirical results show that the marginal effect of spending is larger for challengers than incumbents. The results also reveal that the effect of campaign spending on vote share is positive and significant for the elderly voters and the voters living in wealthy areas but negative for college graduates. The spending elasticity estimates vary across electoral districts and can be either positive or negative. The voters are found to be more responsive to the campaign spending by incumbents and the candidates of the Kuomintang.
+[Download paper here](https://doi.org/10.1016/j.econmod.2022.105919)<br/>
+The effect of candidates' campaign spending is conditional on voter characteristics, but this relationship has rarely been examined due to voter anonymity in election data. This paper addresses this concern by using a random-coefficients logit demand model to allow for voter heterogeneity in the estimation, while campaign spending is considered to be endogenous. Using election data from Taiwan, empirical results show that the effect of campaign spending on vote share is positive and significant for the areas with more voters over 65 years old, more high-income earners and fewer college graduates. The results reveal the electoral culture in Taiwan that relies heavily on local power brokers, whose channeling of campaign spending more likely affects older and wealthier but less-educated voters. Empirical results also show that the marginal effect of campaign spending is larger for the challengers than the incumbents, while the vote share is more spending-elastic for the incumbents than the challengers.
