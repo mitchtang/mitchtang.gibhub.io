@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/hei
 excerpt: ''
 date: 2022-06-21
-venue: 'under submission'
+venue: 'Applied Economics'
 #paperurl: 'https://www.dropbox.com/s/v8cik62k9ucv8di/HEI201110.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
 ---
