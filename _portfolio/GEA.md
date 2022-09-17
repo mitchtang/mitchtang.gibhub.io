@@ -2,7 +2,7 @@
 title: "How do Gendered Laws Affect Women's Decisions among Education, Family and Career? The Case of Taiwan's Act of Gender Equality in Employment"
 collection: portfolio
 permalink: /portfolio/GEA
-excerpt: ''
+excerpt: 'with **Zi-Xuan Wang**'
 date: 2022-09-17
 venue: 'under submission'
 #paperurl: 'https://www.dropbox.com/s/a3mxb36z2l5jcgx/201030.pdf?dl=0'
