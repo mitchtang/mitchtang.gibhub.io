@@ -4,7 +4,7 @@ collection: portfolio
 permalink: /portfolio/mismeasured
 excerpt: 'with **Ji-Liang Shiu** and **Yu-Hui Chou**'
 date: 2019-10-01
-venue: 'under submission'
+venue: 'under revision'
 #paperurl: https://www.dropbox.com/s/g0mcmdltetp27l5/190920.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
 ---
