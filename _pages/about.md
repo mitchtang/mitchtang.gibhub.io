@@ -20,4 +20,4 @@ redirect_from:
   * Intergenerational coresidence decisions 
   * The effects of gendered laws on women's life decisions
 
-<div style="text-align:right"> <em>This site was lasted updated at June 1, 2022</em>
+<div style="text-align:right"> <em>This site was lasted updated at March 3rd, 2023</em>
