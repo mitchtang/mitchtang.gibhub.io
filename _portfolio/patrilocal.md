@@ -3,7 +3,7 @@ title: "Upstream or Downstream Transfer behind Patrilocal Coresidence? Evidence 
 collection: portfolio
 permalink: /portfolio/patrilocal
 excerpt: 'with **Hsin-Yi Chiu**'
-date: 2022-11-07
+date: 2024-02-15
 venue: 'under submission'
 #paperurl: 'https://www.dropbox.com/s/2p7qaq3vrw5oh5n/221105.pdf?dl=0'
 #citation: 'Tang, M.-C., & Chyi, Y.-L. (2008). Legal environments, venture capital, and total factor productivity growth of taiwanese industry. Contemporary Economic Policy, 26(3).'
