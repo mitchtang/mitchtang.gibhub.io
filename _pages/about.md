@@ -12,10 +12,9 @@ redirect_from:
 * I received my Ph.D. from the Department of Economics, [Michigan State University](http://econ.msu.edu) in 2009.
 * My research interests are **empirical industrial organization**, **health economics**, **family**, and **gender**. 
 * My current research focuses on physicians' decisions and health outcomes under the National Health Insurance in Taiwan. Current research topics include:
-  * The effect of physician ownership on physicians' prescription choices and prescription quality. I have been studying inappropriate antibiotic prescriptions, drug-drug interactions, and patients' medication adherence for quality measures. 
-  * Cesarean section and its long-term impact on children's health outcomes.
-  * Health outcomes of newborns and medical utilization under the pandemic.
-* I am also working on issues related to family and gender economics, including:
+  * Physician ownership, peer effect, and physicians' prescription choices and quality. 
+  * The adoption of cesarean sections and the long-term impact on the mothers' and children's health outcomes.
+  * Health outcomes of newborns and patients under the pandemic.
   * Gender concordance between physicians and patients and its effects on health outcomes.
   * The effects of gendered laws on women's life decisions.
 
