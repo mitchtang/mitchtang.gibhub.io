@@ -13,8 +13,8 @@ redirect_from:
 * My research interests are **empirical industrial organization**, **health economics**, **family**, and **gender**. 
 * My current research focuses on physicians' decisions and health outcomes under the National Health Insurance in Taiwan. Current research topics include:
   * Physician ownership, peer effect, and physicians' prescription choices and quality. 
-  * The adoption of cesarean sections and the long-term impact on the mothers' and children's health outcomes.
-  * Health outcomes of newborns and patients under the pandemic.
+  * The adoption of cesarean sections and the long-term health impact on the mothers and children.
+  * Medical utilization and health outcomes of pregnant mothers, newborns, and patients during the pandemic.
   * Gender concordance between physicians and patients and its effects on health outcomes.
   * The effects of gendered laws on women's life decisions.
 
