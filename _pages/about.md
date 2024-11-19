@@ -18,4 +18,4 @@ redirect_from:
   * Gender concordance between physicians and patients and its effects on health outcomes.
   * The effects of gendered laws on women's life decisions.
 
-<div style="text-align:right"> <em>Latest update: August, 1, 2024</em>
+<div style="text-align:right"> <em>Latest update: November, 19, 2024</em>
